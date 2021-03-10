@@ -1,6 +1,4 @@
-const min = require('./min');
-const sum = require('./summ');
-const abs = require('./abs');
+const {min, sum, abs} = require('math');
 
 const testArr = [123, 54, 23, 2352, 1, 23, 3, -123, -12, -3123]
 
